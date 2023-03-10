@@ -1,0 +1,43 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.blue-text {
+  color: lightblue;
+}
+
+ul {
+  color: teal;
+  font-family: monospace;
+}
+
+h4 {
+  color: hotpink;
+}
+
+h2 {
+  color: palevioletred;
+}
+
+ul {
+  font-family: monospace;
+}
+
+ol {
+  font-family: "Raleway", sans-serif;
+}
+
+#purple-text {
+  color: purple;
+}
+
+.background {
+  background-color: ghostwhite;
+}
+
+.border {
+  border: 2px solid black;
+}
+
+/*# sourceMappingURL=output.css.map */

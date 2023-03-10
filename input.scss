@@ -1,0 +1,39 @@
+$main: lightblue;
+$purple: purple;
+$bullet: monospace;
+$numbered: 'Raleway', sans-serif;
+
+
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  .blue-text {
+    color: $main;
+  }
+  ul {
+    color: teal;
+    font-family: $bullet;
+  }
+
+  h4 {
+    color: hotpink;
+  }
+  h2 {
+    color: palevioletred;
+  }
+  ul {
+    font-family: $bullet;
+  }
+  ol {
+    font-family: $numbered;
+  }
+  #purple-text {
+    color: $purple;
+  }
+  .background {
+    background-color: ghostwhite;
+  }
+  .border {
+    border:2px solid black
+  }
